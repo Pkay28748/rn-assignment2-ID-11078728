@@ -4,7 +4,7 @@ The goal is to create a single react native application using EXPO CLI and do so
 
 ## Screenshot
 Here is the screenshot of the modifications i made with the react native application
-![App Screenshot](pkay.jpg)
+![App Screenshot](pkay.png)
 
 ## Instructions
 1. Create a new React Native Blank template project using EXPO CLI.
